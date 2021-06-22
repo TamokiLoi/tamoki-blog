@@ -4,7 +4,11 @@ class NewsController {
     }
 
     show(req, res) {
-        res.send('News Detail!!!');
+
+
+
+
+                    res.send('News Detail!!!');
     }
 }
 
